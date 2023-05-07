@@ -17,6 +17,7 @@ import sys
 
 # Project folder path
 project_folder_path = os.getcwd()+"/scripts"
+# Add the project folder to system path to import the file as a module
 sys.path.append(project_folder_path)
 
 # Two ways for modularization
