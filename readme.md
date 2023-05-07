@@ -10,4 +10,4 @@
 - [X] Dummy Operator
 - [X] Python Operator
 - [X] XCOM concept
-- [ ] Modularization in airflow
+- [X] Modularization in airflow
