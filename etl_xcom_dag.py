@@ -1,4 +1,7 @@
 
+"""
+About xcom(Cross communication) in Airflow. XCOM allows us to return an object from one of the function called by python operator and later this returned object can be used by another function down in the pipeline. xcom is used for cross-communication between tasks in airflow
+"""
 # Simple ETL pipeline implementation using PythonOperator 
 # For datetime related operations
 from datetime import datetime as dt 
@@ -9,9 +12,6 @@ from airflow import DAG
 from airflow.operators.dummy_operator import DummyOperator
 from airflow.operators.python import PythonOperator 
 import pandas as pd
-"""
-About xcom(Cross communication) in Airflow. XCOM allows us to return an object from one of the function called by python operator and later this returned object can be used by another function down in the pipeline
-"""
 
 # Python functions for extract transform and load 
 def extract_fn():

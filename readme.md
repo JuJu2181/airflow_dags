@@ -9,3 +9,5 @@
 ## Learned concepts
 - [X] Dummy Operator
 - [X] Python Operator
+- [X] XCOM concept
+- [ ] Modularization in airflow
