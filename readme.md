@@ -5,3 +5,7 @@
 - It is a platform to programatically author, schedule and monitor worflows purely based on Python programming language.
 - It allows use to visualize , schedule, monitor, automate, troubleshoot and orchestrate the ETL data pipelines.
 
+
+## Learned concepts
+- [X] Dummy Operator
+- [X] Python Operator
