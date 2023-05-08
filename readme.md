@@ -14,3 +14,5 @@
 - [X] Python Operator
 - [X] XCOM concept
 - [X] Modularization in airflow
+- [X] Connections and hooks
+- [X] TaskGroups
