@@ -17,3 +17,4 @@
 - [X] Connections and hooks
 - [X] TaskGroups
 - [X] Variables
+- [X] Triggering DAG with config
