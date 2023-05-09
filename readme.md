@@ -16,3 +16,4 @@
 - [X] Modularization in airflow
 - [X] Connections and hooks
 - [X] TaskGroups
+- [X] Variables
